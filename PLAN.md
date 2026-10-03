@@ -17,9 +17,11 @@ The organizers have not announced a presentation format, so we plan for 10–15 
 3. **Why it must fail.** Gleason's probabilities are continuous, so a 0/1 assignment on the connected
    sphere would be constant, and neither constant works. Compactness then yields a finite uncolorable
    set, with no bound on its size.
-4. **The frontier.** 24 ≤ minimum ≤ 31. The 24 exists only as a machine search; the probabilistic
+4. **The payoff.** The Free Will Theorem: two entangled particles asked about the same uncolorable
+   set cannot have answers fixed in advance, if the experimenters choose freely.
+5. **The frontier.** 24 ≤ minimum ≤ 31. The 24 exists only as a machine search; the probabilistic
    method reaches 10.
-5. **Our two months.** The direction chosen at hour 34.
+6. **Our two months.** The direction chosen at hour 34.
 
 ## The 40 hours
 
@@ -32,7 +34,7 @@ The organizers have not announced a presentation format, so we plan for 10–15 
 | 20 | *Sync 2: where does the human proof stop and the machine start?* | |
 | 20–28 | **D · Structure and realizability:** no 4-cycles, triangles, minimum degree 3; can an orthogonality graph be drawn? (Z3) | **D · Rerun the search, small sizes:** SAT encoding of the Li–Bright–Ganesh rules; check the 31-set, dropping one vector at a time |
 | 28 | *Sync 3: compare what the search and the lemmas showed* | |
-| 28–34 | **E · Together:** independence number vs Lovász theta, the KCBS pentagon, Yu–Oh's 13 rays; choose the two-month direction | (same) |
+| 28–34 | **E · Together:** the Free Will Theorem, Lovász theta, the KCBS pentagon, Yu–Oh's 13 rays; choose the two-month direction | (same) |
 | 34–40 | **F · Together:** build the slides and the coloring demo, then one full dry run | (same) |
 
 ## Exercises by hand
@@ -60,6 +62,9 @@ The letter is the block; the track leads.
       any one direction makes it colorable. Coordinates: Peres's book or Kernaghan (2026).
 - [ ] **(E, Track 2)** Compute α(C₅) = 2 and ϑ(C₅) = √5 numerically, and explain what the gap means for
       the KCBS test.
+- [ ] **(E, Track 1)** The Free Will Theorem in a few lines: suppose each particle's answer is a
+      function of the past. Use SPIN, TWIN and MIN to turn that function into a coloring of Peres's 33
+      directions, which cannot exist.
 
 ## Two months: the options
 
@@ -69,7 +74,7 @@ We pick one main direction at hour 34.
 | --- | --- | --- |
 | A readable bound above 10 | A proof, checkable by hand, that every uncolorable set in ℝ³ has more than 10 directions | Gains may be small; any clean gain is new |
 | Gleason → compactness → Kochen–Specker → the gap | The explainer: what each step keeps and what it loses | Must add something the existing reviews lack |
-| The coloring game | A web page where the reader tries to color the 31-set, or Cabello's symmetric 33-set, and always fails | Low; its value is clarity |
+| The coloring game | A web page where the reader tries to color the 31-set, or Cabello's symmetric 33-set, and always fails; a two-player version plays out the Free Will Theorem | Low; its value is clarity |
 | A certified check | A Lean proof, through a checked SAT certificate, that the 31-set cannot be colored | Tooling time |
 | Moonshot: 30 or fewer | A search with Axplorer or SAT; a hit would refute the conjecture that 31 is the minimum | Most likely finds nothing |
 

@@ -17,3 +17,4 @@ histories in the repository. This folder is where they go.
 | Date | Tool | Used for | How the output was checked | Transcript |
 | --- | --- | --- | --- | --- |
 | 2026-09-29 to 09-30 | Claude (Anthropic) | Choosing the problem, checking the literature, the 40-hour plan, this repository's setup | Every reference was opened; facts are listed with sources in CLAIMS.md | To be exported |
+| 2026-10-03 | Claude (Anthropic) | Adding the Free Will Theorem to the scope, plan and reading list | Conway–Kochen 2009, the Goldstein et al. critique and Renner–Wolf were opened; see CLAIMS.md 18–21 | To be exported |

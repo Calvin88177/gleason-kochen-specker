@@ -3,7 +3,7 @@
 Every factual claim in this repository, with how it is backed. **Source** means a page we opened.
 **Script** means code in this repository that checks it. Anything not in this table is not yet a claim.
 
-Last checked: 30 September 2026.
+Last checked: 3 October 2026.
 
 | # | Claim | Backed by | Status |
 | --- | --- | --- | --- |
@@ -24,3 +24,7 @@ Last checked: 30 September 2026.
 | 15 | Cabello's symmetric 33-vector set in ℂ³ uses 14 bases (Conway–Kochen 31 uses 17; Peres 33 uses 16) | Source: [Cabello 2025](https://arxiv.org/abs/2508.07335) | Checked |
 | 16 | The Kochen–Specker theorem fails in dimension 2 (every direction can be colored) | To be proved by hand: exercise A in [PLAN.md](PLAN.md) | Open |
 | 17 | Our tools install and a SAT solver settles abstract toy instances of the coloring rules | Script: [scripts/check_env.py](scripts/check_env.py) | Checked |
+| 18 | The Free Will Theorem (Conway and Kochen; Foundations of Physics 2006, Notices of the AMS 2009): from the axioms SPIN, TWIN and MIN, if experimenters can freely choose their measurement directions, a particle's response is not determined by the previous history of the universe | Source: [Conway & Kochen 2009](https://arxiv.org/abs/0807.3286); [Wikipedia: Free will theorem](https://en.wikipedia.org/wiki/Free_will_theorem) | Checked |
+| 19 | Its proof uses Peres's 33 directions and shows that no "101 function" on them exists (the Kochen–Specker obstruction) | Source: [Conway & Kochen 2009](https://arxiv.org/abs/0807.3286) | Checked |
+| 20 | Critique: for stochastic models the conclusion is not correct, and for deterministic models it is not new | Source: [Goldstein, Tausk, Tumulka, Zanghì 2010](https://arxiv.org/abs/0905.4641) abstract | Checked |
+| 21 | Two-player games that entangled players always win and classical players cannot are equivalent to Kochen–Specker contradictions | Source: [Renner & Wolf 2004](https://crypto.ethz.ch/publications/RenWol04d.html) abstract | Checked |

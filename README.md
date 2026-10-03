@@ -19,6 +19,13 @@ one 1 and no orthogonal pair has two. Gleason's theorem already rules out colori
 Kochen and Specker found 117 directions that cannot be colored; Peres cut this to 33, and Conway and
 Kochen to 31.
 
+**The Free Will Theorem (Conway and Kochen, 2006 and 2009).** The best-known use of a
+Kochen–Specker set. Two entangled spin-1 particles are measured along Peres's 33 directions. If the
+experimenters choose their measurements freely, the particles' answers cannot be functions of the
+past, because such a function would color the 33 directions. Critics reply that this is not new for
+deterministic models and not correct for stochastic ones. We treat it as a theorem about the
+coloring obstruction, played by two particles, and leave the question of free will open.
+
 **What is still open.** Nobody knows the smallest uncolorable set in three dimensions.
 
 - Smallest known: 31 directions (Conway–Kochen).

@@ -1,6 +1,6 @@
 # Reading list
 
-Links checked on 29–30 September 2026. Hours are estimates. The Mathathon format comes from the
+Links checked on 29–30 September and 3 October 2026. Hours are estimates. The Mathathon format comes from the
 organizers' [joint statement](https://terrytao.wordpress.com/2026/09/28/joint-statement-about-mathathon/).
 
 | Reading | Why | Block | Track | Hours |
@@ -23,11 +23,14 @@ organizers' [joint statement](https://terrytao.wordpress.com/2026/09/28/joint-st
 | [Kernaghan, The algebraic landscape of Kochen–Specker sets in dimension three (2026)](https://arxiv.org/abs/2603.16988) | A current survey; the 31-set's coordinate alphabet | D | 1 | 1 |
 | [Trandafir, Cabello, Two fundamental solutions to the rigid Kochen–Specker set problem… (2025)](https://arxiv.org/abs/2501.11640) | The case for 31 | D | 1 | 1.5 |
 | [Li, Bright, Trandafir, Cabello, Ganesh, SAT + nauty: orderly generation of small Kochen–Specker sets containing the smallest state-independent contextuality set (2026)](https://arxiv.org/abs/2604.19947) | The newest search: the smallest set containing the complete 25-ray contextuality set is Schütte's 33 | D | 1 | 1 |
-| [Budroni, Cabello, Gühne, Kleinmann, Larsson, Kochen–Specker contextuality (2022)](https://arxiv.org/abs/2102.13036) | The standard review; selected sections | E | Both | 2 |
+| [Conway, Kochen, The strong free will theorem (2009)](https://arxiv.org/abs/0807.3286) | The Free Will Theorem, from Peres's 33 directions | E | Both | 1 |
+| [Goldstein, Tausk, Tumulka, Zanghì, What does the free will theorem actually prove? (2010)](https://arxiv.org/abs/0905.4641) | The main critique | E | 1 | 0.5 |
+| [Renner, Wolf, Quantum pseudo-telepathy and the Kochen–Specker theorem (2004)](https://crypto.ethz.ch/publications/RenWol04d.html) | Kochen–Specker sets as two-player games | E | 1 | 0.5 |
+| [Budroni, Cabello, Gühne, Kleinmann, Larsson, Kochen–Specker contextuality (2022)](https://arxiv.org/abs/2102.13036) | The standard review; selected sections | E | Both | 1.5 |
 | [Cabello, Severini, Winter, Graph-theoretic approach to quantum correlations (2014)](https://arxiv.org/abs/1401.7081) | Independence number vs Lovász theta | E | 2 | 1.5 |
 | [Klyachko, Can, Binicioğlu, Shumovsky, Simple test for hidden variables in spin-1 systems (2008)](https://link.aps.org/doi/10.1103/PhysRevLett.101.020403) | The KCBS pentagon | E | 2 | 1 |
-| [Yu, Oh, State-independent proof of Kochen–Specker theorem with 13 rays (2012)](https://arxiv.org/abs/1109.4396) | Contextual, yet colorable | E | 1 | 1 |
-| [Cabello, The simplest Kochen–Specker set (2025)](https://arxiv.org/abs/2508.07335) | A symmetric 33-set; a demo candidate | E | Both | 1 |
+| [Yu, Oh, State-independent proof of Kochen–Specker theorem with 13 rays (2012)](https://arxiv.org/abs/1109.4396) | Contextual, yet colorable | E | 1 | 0.5 |
+| [Cabello, The simplest Kochen–Specker set (2025)](https://arxiv.org/abs/2508.07335) | A symmetric 33-set; a demo candidate | F | Both | 1 |
 
 ## Tools
 
